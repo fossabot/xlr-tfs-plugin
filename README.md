@@ -1,6 +1,7 @@
 # XL Release TFS plugin
 [![Build Status][xlr-tfs-plugin-travis-image]][xlr-tfs-plugin-travis-url]
-[![Codacy Badge][xlr-tfs-plugin-codacy-image] ][xlr-tfs-plugin-codacy-url]
+[![Codacy Badge][xlr-tfs-plugin-codacy-image] [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxebialabs-community%2Fxlr-tfs-plugin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxebialabs-community%2Fxlr-tfs-plugin?ref=badge_shield)
+][xlr-tfs-plugin-codacy-url]
 [![Code Climate][xlr-tfs-plugin-code-climate-image] ][xlr-tfs-plugin-code-climate-url]
 [![License: MIT][xlr-tfs-plugin-license-image]][xlr-tfs-plugin-license-url]
 ![Github All Releases][xlr-tfs-plugin-downloads-image]
@@ -159,3 +160,7 @@ Successful execution of the release results in the following output:
 
 ## References ##
 + [TFS Rest api](https://www.visualstudio.com/en-us/docs/integrate/api/overview)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxebialabs-community%2Fxlr-tfs-plugin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxebialabs-community%2Fxlr-tfs-plugin?ref=badge_large)
